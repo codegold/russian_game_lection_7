@@ -1,2 +1,2 @@
-# russian_game_lection_7
+# GAME_russian_game_lection_7
 drawing quads
